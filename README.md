@@ -1,8 +1,8 @@
 # Repository Index
+
 ## Overview
-Welcome to the Devops_Projects! This repository contains various projects, scripts, and documentation organized into distinct directories.
+Welcome to the V-Profile_Project_using_Vagrant_Manual_and_Automated ! This repository contains the projects, scripts, and documentation organized into distinct directories.
 That were done by me while pursuing my DevOps Course.
-Each folder serves a specific purpose, whether it's related to infrastructure as code, CI/CD pipelines, or automation scripts.
 
 This `README.md` provides an index of all key components of the repository to help you navigate and understand the contents.
 
@@ -14,7 +14,6 @@ This `README.md` provides an index of all key components of the repository to he
 > The same code or the product has been used for all the projects but with the different approaches based on the differnt use cases.
 
 > NOTE: The code is not written/developed by me, this code is from my instructor who has designed this code for the differnet scenarios.
-> Each folder contains the steps and the code related to it.
 
 
 ## Directory Structure
@@ -22,13 +21,11 @@ This `README.md` provides an index of all key components of the repository to he
 The repository is organized as follows:
 
 ```plaintext
-├── Project-01/
-├── Project-02/
-├── Project-03/
-├── Project-04/
-├── Project-05/
-├── Project-06/
-├── Project-07/
+├── src/
+├── vagrant/
+├── About_the_Project.md/
+├── pom.xml/
+├── VprofileProjectSetupWindows_Steps/
 └── LICENSE
 └── README.md
 ```
