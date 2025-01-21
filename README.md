@@ -21,12 +21,13 @@ This `README.md` provides an index of all key components of the repository to he
 The repository is organized as follows:
 
 ```plaintext
+├── Architecture/
 ├── src/
 ├── vagrant/
 ├── About_the_Project.md/
 ├── pom.xml/
 ├── VprofileProjectSetupWindows_Steps/
-└── LICENSE
+├── LICENSE/
 └── README.md
 ```
 
