@@ -23,7 +23,7 @@ The repository is organized as follows:
 ```plaintext
 ├── Architecture/
 ├── src/
-├── vagrant/
+├── Vagrant_Files/
 ├── About_the_Project.md/
 ├── pom.xml/
 ├── VprofileProjectSetupWindows_Steps/
